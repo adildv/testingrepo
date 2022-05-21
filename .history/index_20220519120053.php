@@ -16,7 +16,7 @@ class Class2 extends Class1
 {
     function __construct()
     {
-        echo 'im constr from some ';
+        echo 'im constr from okay wwww';
         parent::__construct();
 
     }   
