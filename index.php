@@ -8,7 +8,7 @@ class Class1
   }
   function fun1()
   {
-      echo 'hey im fun1';
+      echo '<br>hey im fun1';
   }
 }
 
@@ -24,4 +24,13 @@ class Class2 extends Class1
 
 
 $obj2 = new Class2();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
+echo $obj2->fun1();
 ?>
